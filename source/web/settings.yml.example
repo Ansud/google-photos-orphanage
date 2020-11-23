@@ -1,0 +1,13 @@
+# You must obtain client id and secret from google api console
+GOOGLE_PHOTOS_CLIENT_ID: 'some client id'
+GOOGLE_PHOTOS_SECRET: 'very secretly secret'
+
+# Current web domain of this project to redirect auth response back
+DOMAIN: 'sample.web.domain'
+
+# Redis connection settings
+REDIS_CONNECTION:
+  db: 0
+  host: localhost
+  password: null
+  port: 6379
