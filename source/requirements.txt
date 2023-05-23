@@ -5,5 +5,5 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 PyYAML==5.4
 Werkzeug==2.2.3
-requests==2.25.0
+requests==2.31.0
 redis==4.5.4
